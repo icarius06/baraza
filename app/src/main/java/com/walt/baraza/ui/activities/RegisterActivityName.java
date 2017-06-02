@@ -1,9 +1,11 @@
-package com.walt.baraza;
+package com.walt.baraza.ui.activities;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
+
+import com.walt.baraza.R;
 
 /**
  * Created by Obadha on 5/19/17.
